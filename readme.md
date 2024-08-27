@@ -25,6 +25,16 @@ const columnXData = `2
 
 ```
 
+
+## Example output
+
+```
+2/16(-1/2log(1/2)-1/2log(1/2))+0/16()+2/16(-2/2log(2/2))+1/16(-1/1log(1/1))+1/16(-1/1log(1/1)) = 0.1250
+
+```
+
+
+
 Good luck in your test :)
 
 Ori Nahum
