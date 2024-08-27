@@ -4,7 +4,10 @@
 2. Insert data in src/data.js file:
     * columnXData - the data column
     * columnYData - the target column
-3. Run index file - "node src/index.js" 
+3. Run index file:
+   ```
+   node src/index.js
+   ```
 
 ## Example input
 
